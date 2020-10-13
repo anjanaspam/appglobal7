@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>appglobal7</name>
+        <order/>
+        <roles>appglobal7_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-13 17:09:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>821400de5337101071a3ddeeff7b12a0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>appglobal7</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="appglobal7" source="c2148c9e5337101071a3ddeeff7b1280">c2148c9e5337101071a3ddeeff7b1280</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="appglobal7">c2148c9e5337101071a3ddeeff7b1280</sys_scope>
+        <sys_update_name>sys_app_application_821400de5337101071a3ddeeff7b12a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-13 17:09:17</sys_updated_on>
+        <title>appglobal7</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
